@@ -32,3 +32,5 @@ git merge branch
 git switch main
 git merge new-branch
 
+for deleting the branch
+git -d branch-name
