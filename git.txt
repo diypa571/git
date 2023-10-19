@@ -29,3 +29,6 @@ git status
 git -c switch new-branch
 
 git merge branch
+git switch main
+git merge new-branch
+
