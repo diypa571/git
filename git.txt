@@ -49,3 +49,5 @@ git push -u origin main
 
 
 https://github.com/diypa571/git.git
+
+git push --all
