@@ -22,3 +22,10 @@ git commit -m ".gitignore"
 
 git rm file
 git mv file newfile
+
+
+git branch
+git status
+git -c switch new-branch
+
+git merge branch
