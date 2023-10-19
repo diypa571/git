@@ -36,6 +36,11 @@ for deleting the branch
 git -d branch-name
 
 
+creating new branches
+git branch alpha-branch
+git checkout alpha branch
+
+
 
 github
 git remote add origin https://github.com/diypa571/
