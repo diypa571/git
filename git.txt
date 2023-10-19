@@ -34,3 +34,10 @@ git merge new-branch
 
 for deleting the branch
 git -d branch-name
+
+
+
+github
+git remote add origin https://github.com/diypa571/
+git branch -M main
+git push -u origin main
