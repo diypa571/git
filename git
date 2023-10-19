@@ -19,3 +19,6 @@ notes/
 
 git add .
 git commit -m ".gitignore"
+
+git rm file
+git mv file newfile
