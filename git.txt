@@ -1,0 +1,24 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+// Staging files
+git add filename
+git add --all
+git add -A
+git add .
+git commit -m "comment"
+
+.gitignoore
+.DS_store
+.vscode/
+authentication.js
+mode_modules
+notes/
+**/*-todo.md
+
+
+
+git add .
+git commit -m ".gitignore"
+
+git rm file
+git mv file newfile
